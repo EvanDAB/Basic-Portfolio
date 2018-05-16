@@ -1,0 +1,88 @@
+body {background-image: url("https://i.stack.imgur.com/l0JyZ.jpg")}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+h2 {color: #4aaaa5;}
+
+#navBar{
+    height: 90px;
+    background-color: white;
+    margin-bottom: 30px;
+    border-bottom: 3px grey solid;
+}
+
+#whiteBox {
+    height: 90px;
+    width:pageLength
+}
+
+#Home{
+    height: 90px;
+    width: 250px;
+    background-color: #4aaaa5;
+    float: left;
+    display: inline;
+}
+
+.topnav {
+    float: right;
+    display: inline-flex;
+}
+
+.menu {
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+    vertical-align: auto;
+}
+
+a {
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 10px;
+}
+
+.invisibleBox {
+    width: 1000px;
+    margin: auto;
+}
+
+.pSection {
+    width: 100%;
+    height: 60%;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 52px;
+}
+
+img {
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+
+p {
+    color: grey;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    margin: 10px;
+}
+
+.bottom {
+    height: 90px;
+    background-color:grey;
+    margin-bottom: 30px;
+    border-top: 3px #4aaaa5 solid;
+}
+
+#whiteTxt {
+    color: white;
+    text-align: center;
+    vertical-align: bottom;
+}
